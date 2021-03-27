@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <title>
+        O'zbekiston Respublikasi davlat madhiyasi
+    </title>
+<body>
+
+  <h1 style="color:midnightblue;">
+    <h1 style="text-align: center;">
+        O'zbekiston Respublikasi davlat madhiyasi
+    </h1>
+  </h1>
+  <p style="text-align:center">
+    
+      O‘zbekiston Respublikasi Davlat madhiyasining matni va musiqasi O‘zbekiston Respublikasining ,<br>
+      1992 yil 10 dekabrdagi 768 ­XII ­sonli «O‘zbekiston Respublikasining Davlat madhiyasi <br>
+      to‘g‘risida»gi Qonuni bilan tasdiqlangan.
+    
+  </p>
+  <h1 style="text-align: center;">
+    <audio controls>
+        <source src="madhiya.html/Madxiya.mp3" type="audio/ogg">
+        <source src="madhiya.html/Madxiya.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+    </audio>
+  </h1>
+      <p>
+        <b>
+          <pre>
+            <h1 style="font-size: 150%">
+          Mutal Burhonov musiqasi
+
+          Abdulla Oripov so'zi
+          </h1>
+          </pre>
+        </b>
+      </p>
+        <h1 style="font-size: 150%">
+          <pre>
+                                    MADHIYA 
+
+                        Serquyosh,  hur  o‘lkam,  elga  baxt,  najot,
+                        Sen  o‘zing do‘stlarga  yo‘ldosh,  mehribon!
+                        Yashnagay  to  abad  ilmu  fan,  ijod,
+                        Shuhrating  porlasin  toki  bor  jahon!
+
+          Oltin bu vodiylar — jon O‘zbekiston,
+          Ajdodlar mardona ruhi senga yor!
+          Ulug‘ xalq qudrati jo‘sh urgan zamon,
+          Olamni mahliyo aylagan diyor!
+
+                     Oltin bu vodiylar — jon O‘zbekiston,
+                    Ajdodlar mardona ruhi senga yor!
+                    Ulug‘ xalq qudrati jo‘sh urgan zamon,
+                    Olamni mahliyo aylagan diyor!
+
+          Oltin bu vodiylar — jon O‘zbekiston,
+          Ajdodlar mardona ruhi senga yor!
+          Ulug‘ xalq qudrati jo‘sh urgan zamon,
+          Olamni mahliyo aylagan diyor!
+          </pre>
+        </h1>
+
+</body>
+</html>
